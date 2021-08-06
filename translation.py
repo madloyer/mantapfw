@@ -6,4 +6,4 @@ class Translation(object):
       #About text
       ABOUT = """
 <b>📝 Language:</b> Python 3
-<b>🧰 Framework:</b> Pyrogram
+<b>🧰 Framework:</b> Pyrogram"""
